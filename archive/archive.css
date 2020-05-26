@@ -1,5 +1,9 @@
 .issuuembed{
 	margin-top: 75px;
+	<script>
+		var myYumpu = new Yumpu();
+		myYumpu.create_player("#yumpuMagazineContainer", "", { lang:"en", embed_id:"i63fcMQe8G5NU7zC", embedded:true } );
+	</script>
 }
 #column1{
 	margin-left: 15%;
